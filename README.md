@@ -39,12 +39,4 @@ That is an illegal chess move for that piece!
 ROOK: (7, 6) (8, 8)
 Coordinates are not on the board!
 
-=7= --- --- --- --- --- --- --- ---
-=6= --- --- --- --- --- --- --- -r-
-=5= --- --- -h- --- --- -p- --- ---
-=4= --- --- --- --- --- --- --- ---
-=3= --- --- --- --- --- --- --- -b-
-=2= --- --- --- --- --- -b- --- -p-
-=1= --- --- --- --- --- --- --- ---
-=0= --- --- --- --- --- --- --- ---
-=== =0= =1= =2= =3= =4= =5= =6= =7=
+<PRINT OUT OF THE BOARD, DOES NOT FORMAT PROPERLY ON GITHUB>
