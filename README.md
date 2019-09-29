@@ -14,22 +14,31 @@ Running with input.txt, expected output:
 
 PAWN: (7, 0) (7, 2)
 Moved! (7, 0) (7, 2)
+
 BISHOP: (2, 5) (5, 2)
 Moved! (2, 5) (5, 2)
+
 ROOK: (2, 6) (7, 6)
 Moved! (2, 6) (7, 6)
+
 KNIGHT: (0, 0) (2, 1)
 Moved! (0, 0) (2, 1)
+
 BISHOP: (7, 3) (3, 7)
 That is an illegal chess move for that piece!
+
 KNIGHT: (2, 1) (1, 3)
 Moved! (2, 1) (1, 3)
+
 KNIGHT: (1, 3) (2, 5)
 Moved! (1, 3) (2, 5)
+
 KNIGHT: (2, 5) (3, 4)
 That is an illegal chess move for that piece!
+
 ROOK: (7, 6) (8, 8)
 Coordinates are not on the board!
+
 =7= --- --- --- --- --- --- --- ---
 =6= --- --- --- --- --- --- --- -r-
 =5= --- --- -h- --- --- -p- --- ---
